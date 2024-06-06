@@ -32,6 +32,7 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 sudo chmod 666 /var/run/docker.sock
 sudo groupadd docker
+sudo usermod -aG docker ubuntu
 
 echo "##Setup Kubectl"
 curl -o kubectl https://amazon-eks.s3.us-west-2.amazonaws.com/1.19.6/2021-01-05/bin/linux/amd64/kubectl
