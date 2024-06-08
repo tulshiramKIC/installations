@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=[YourGitHubUsername]&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=tulshiramKIC&style=flat-square)
 
 Welcome to my GitHub profile! I am a DevOps Engineer passionate about automating processes and optimizing infrastructure for seamless deployment and scaling.
 
@@ -26,16 +26,16 @@ Welcome to my GitHub profile! I am a DevOps Engineer passionate about automating
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white&style=for-the-badge)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[YourGitHubUsername]&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tulshiramKIC&theme=onedark)
 
 ## 💼 Featured Projects
-- [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Project1]&theme=radical)](https://github.com/[YourGitHubUsername]/[Project1])
-- [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Project2]&theme=radical)](https://github.com/[YourGitHubUsername]/[Project2])
-- [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=[YourGitHubUsername]&repo=[Project3]&theme=radical)](https://github.com/[YourGitHubUsername]/[Project3])
+- [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project1]&theme=radical)](https://github.com/tulshiramKIC/[Project1])
+- [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project2]&theme=radical)](https://github.com/tulshiramKIC/[Project2])
+- [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project3]&theme=radical)](https://github.com/tulshiramKIC/[Project3])
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[YourLinkedInUsername]/)
