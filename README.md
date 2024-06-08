@@ -14,9 +14,9 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
   </div>
   
-  <div align="center">
-    
-  **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned.**
+ <div align="center">
+   
+  **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned".**
 </div>
 
 <br>
@@ -29,6 +29,7 @@
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=#001eff)](https://twitter.com/YourTwitterUsername)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white&color=#d600ff)](https://YourPortfolioURL/)
 </div>
+
 
 
   <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
