@@ -1,51 +1,52 @@
-# Hi there, I'm [Your Name] 👋
+<div style="background-color: #001eff; padding: 20px;">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F77820&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Tulshiram;"/>
+  </h1>
+  <h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
+  <br/>
+  <div align="center">
+    🔭 I’m currently working on **AWS ECS**<br/>
+    🎯 I’m currently learning **Kubernetes, GitLab, Azure**<br/>
+    🚀 I like **Designing**<br/>
+  </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=tulshiramKIC&style=flat-square)
+  <div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
+  </div>
+  
+  <div align="center">
+    **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned**
+  </div>
+  <br>
 
-Welcome to my GitHub profile! I am a DevOps Engineer passionate about automating processes and optimizing infrastructure for seamless deployment and scaling.
+  <div align="center">
+    [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=#00ff9f)](mailto:youremail@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=#00b8ff)](https://www.linkedin.com/in/YourLinkedInUsername/)
+    [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&color=#bd00ff)](https://discord.com/invite/YourDiscordID)
+    [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=#001eff)](https://twitter.com/YourTwitterUsername)
+    [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white&color=#d600ff)](https://YourPortfolioURL/)
+  </div>
 
-## 🚀 About Me
-- 🔭 I’m currently working on automating CI/CD pipelines.
-- 🌱 I’m currently learning Kubernetes for container orchestration.
-- 👯 I’m looking to collaborate on open-source DevOps tools.
-- 🤔 I’m looking for help with setting up serverless architecture.
-- 💬 Ask me about Docker, Jenkins, Ansible, Terraform, and AWS.
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I love to experiment with new tech gadgets!
+  <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,python,java,html,css" /> <br>
+      <img src="https://skillicons.dev/icons?i=aws,azure" /> <br>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,redhat,maven,terraform,ansible,docker,jenkins,kubernetes,grafana,prometheus" /><br>
+      <img src="https://skillicons.dev/icons?i=figma,xd,wordpress,ps,pr" /> 
+    </a>
+  </p>
 
-## 🛠️ Skills
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=white&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=white&style=for-the-badge)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=white&style=for-the-badge)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=white&style=for-the-badge)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=#00ff9f&count_private=true)
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tulshiramKIC&theme=#00b8ff)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=#bd00ff" alt="Top Languages" />
+  </p>
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tulshiramKIC&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tulshiramKIC&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tulshiramKIC&theme=onedark)
-
-## 💼 Featured Projects
-- [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project1]&theme=radical)](https://github.com/tulshiramKIC/[Project1])
-- [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project2]&theme=radical)](https://github.com/tulshiramKIC/[Project2])
-- [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=tulshiramKIC&repo=[Project3]&theme=radical)](https://github.com/tulshiramKIC/[Project3])
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[YourLinkedInUsername]/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/[YourTwitterUsername])
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[YourWebsite]/)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-![Footer](https://img.shields.io/badge/-Thank%20You%20for%20Visiting!-blue?style=for-the-badge&logo=smiley)
-
-![Animated GIF](https://media.giphy.com/media/joV1k1sNOT5xC/giphy.gif)
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="350">
+  </div>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
+  </div>
+</div>
