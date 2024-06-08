@@ -15,17 +15,21 @@
   </div>
   
   <div align="center">
-    **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned**
-  </div>
-  <br>
+    
+  **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned.**
+</div>
 
-  <div align="center">
-    [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=#00ff9f)](mailto:youremail@gmail.com)
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=#00b8ff)](https://www.linkedin.com/in/YourLinkedInUsername/)
-    [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&color=#bd00ff)](https://discord.com/invite/YourDiscordID)
-    [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=#001eff)](https://twitter.com/YourTwitterUsername)
-    [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white&color=#d600ff)](https://YourPortfolioURL/)
-  </div>
+<br>
+
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=#00ff9f)](mailto:youremail@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&color=#00b8ff)](https://www.linkedin.com/in/YourLinkedInUsername/)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&color=#bd00ff)](https://discord.com/invite/YourDiscordID)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&color=#001eff)](https://twitter.com/YourTwitterUsername)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-F77820?style=for-the-badge&logo=About.me&logoColor=white&color=#d600ff)](https://YourPortfolioURL/)
+</div>
+
 
   <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
   <p align="center">
