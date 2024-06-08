@@ -14,10 +14,11 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="75">&nbsp;
   </div>
   
- <div align="center">
-   
-  **Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned".**
+<div align="center" style="background: linear-gradient(45deg, #00ff9f, #00b8ff, #bd00ff, #001eff, #d600ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  <b>Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned"</b>
 </div>
+<br>
+
 
 <br>
 
