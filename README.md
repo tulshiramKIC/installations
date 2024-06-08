@@ -15,17 +15,10 @@
   </div>
   
 <div align="center">
-  <h2 class="gradient-background">Tech That Matters</h2>
+  <img src="" width="500" alt="Gradient Background">
+  <br>
+  <b>Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned"</b>
 </div>
-
-<style>
-  .gradient-background {
-    background: linear-gradient(to right, #00bcd4, #4caf50, #ff9800);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-  }
-</style>
 
 
 
