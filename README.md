@@ -15,7 +15,7 @@
   </div>
   
 <div align="center">
-  <img src="" width="500" alt="Gradient Background">
+  <img src="https://github.com/tulshiramKIC/installations/blob/main/Color.png" width="500" alt="Gradient Background">
   <br>
   <b>Some DevOps teams have wild server naming conventions. One team named all their servers after "Game of Thrones" characters, and every time a server crashed, they'd say "Ned Stark has been beheaded" or "Joffrey has been poisoned"</b>
 </div>
