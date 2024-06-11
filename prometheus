@@ -16,8 +16,8 @@ sudo chown prometheus:prometheus /etc/prometheus
 sudo chown -R prometheus:prometheus /etc/prometheus/consoles
 sudo chown -R prometheus:prometheus /etc/prometheus/console_libraries
 sudo chown -R prometheus:prometheus /var/lib/prometheus
-sudo nano /etc/systemd/system/prometheus.service
-[Unit]
+
+echo "[Unit]
 Description=Prometheus
 Wants=network-online.target
 After=network-online.target
@@ -33,7 +33,7 @@ ExecStart=/usr/local/bin/prometheus \
     --web.console.libraries=/etc/prometheus/console_libraries
 
 [Install]
-WantedBy=multi-user.target"
+WantedBy=multi-user.target" > /etc/systemd/system/prometheus.service
 
 sudo systemctl daemon-reload
 sudo systemctl enable prometheus
