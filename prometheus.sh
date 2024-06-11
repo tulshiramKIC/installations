@@ -17,8 +17,8 @@ sudo chown prometheus:prometheus /etc/prometheus
 sudo chown -R prometheus:prometheus /etc/prometheus/consoles
 sudo chown -R prometheus:prometheus /etc/prometheus/console_libraries
 sudo chown -R prometheus:prometheus /var/lib/prometheus
-FILE_PATH="/etc/systemd/system/prometheus.service"
-CONTENT="[Unit]
+sudo nano /etc/systemd/system/prometheus.service
+[Unit]
 Description=Prometheus
 Wants=network-online.target
 After=network-online.target
@@ -35,8 +35,7 @@ ExecStart=/usr/local/bin/prometheus \
 
 [Install]
 WantedBy=multi-user.target"
-echo "$CONTENT" > "$FILE_NAME"
-echo "File $FILE_NAME created with content: $CONTENT"
+
 sudo systemctl daemon-reload
 sudo systemctl enable prometheus
 sudo systemctl start prometheus
